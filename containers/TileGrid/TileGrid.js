@@ -10,6 +10,8 @@ export default class TileGrid extends Component {
                     <Tile className={'musics-tile'} title='Musics'/>
                     <Tile className={'documents-tile'} title='Documents'/>
                     <Tile className={'params-tile'} title='Params'/>
+                    <Tile className={'wip-tile'} title='WIP'/>
+                    <Tile className={'wip2-tile'} title='WIP'/>
                 </div>
     }
 }
